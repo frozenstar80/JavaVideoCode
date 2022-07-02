@@ -1,0 +1,1 @@
+{"name":"Local: loop","url":"d:\\JavaVideoCode\\loop.java","tests":[{"id":1656744901439,"input":"5","output":"120"},{"id":1656768526238,"input":"0","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\JavaVideoCode\\loop.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: PrimeNumber","url":"d:\\JavaVideoCode\\PrimeNumber.java","tests":[{"id":1656770503899,"input":"1","output":"Not a prime number"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\JavaVideoCode\\PrimeNumber.java","group":"local","local":true}
