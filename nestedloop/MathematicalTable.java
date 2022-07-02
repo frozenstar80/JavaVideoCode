@@ -2,6 +2,9 @@ package nestedloop;
 import java.util.Scanner;
 
 public class MathematicalTable {
+
+//Print table from 1 to N
+
     public static void main(String[] args) {
         int n;
         Scanner sc = new Scanner(System.in);
